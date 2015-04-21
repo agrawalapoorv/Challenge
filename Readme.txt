@@ -2,9 +2,22 @@ Internship at EMC - technical challenge
 
 Name: Apoorv Agrawal
 
-Fimilarity with the following technology 
-Python: 8/10
-Git: 9/10
-Web Servers : 8/10
+Milestone1:
+	    python Milestone1.py
+	    localhost:8888
 
+Milestone2:
+	    python Milestone2.py
+	    localhost:8888
+Milestone3:
+	    python Milestone3.py
+	    localhost:9003
+		 
+Milestone4:
+	    python Milestone1.py
+	    localhost:8888
 
+Milestone5:
+	    python Milestone1.py
+	    localhost:8888/1.jpg
+	    localhost:8888/index1.html
